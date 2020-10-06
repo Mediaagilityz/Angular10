@@ -1,0 +1,59 @@
+{
+  "editor.fontSize": 17,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 0,
+  "emmet.showSuggestionsAsSnippets": true,
+  "path-autocomplete.extensionOnImport": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "css.remoteStyleSheets": [
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+  ],
+  "editor.detectIndentation": true,
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.rendererType": "dom",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "php.validate.run": "onType",
+  "html.format.enable": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "svipas.prettier-plus"
+  },
+  "sync.gist": "3f274a869fcac89f60416e382e3f28be",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "svipas.prettier-plus"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "java.semanticHighlighting.enabled": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[css]": {
+    "editor.defaultFormatter": "svipas.prettier-plus"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "svipas.prettier-plus"
+  },
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "newUntitledFile",
+  "prettier.singleQuote": true
+}
