@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-apps-bd7e4": {
+      "hosting": {
+        "fotosFirebase": [
+          "test-apps-bd7e4"
+        ]
+      }
+    }
+  }
+}
